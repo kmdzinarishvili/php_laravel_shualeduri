@@ -155,7 +155,7 @@
       <updated>1603724640062</updated>
       <workItem from="1603724641257" duration="1599000" />
       <workItem from="1603726289879" duration="899000" />
-      <workItem from="1603727232990" duration="2092000" />
+      <workItem from="1603727232990" duration="3666000" />
     </task>
     <servers />
   </component>
@@ -176,10 +176,11 @@
     </state>
     <state x="314" y="241" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/72.27.1219.913@72.27.1219.913" timestamp="1603726859631" />
     <state x="248" y="241" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/72.27.886.913@72.27.886.913" timestamp="1603725879180" />
-    <state x="456" y="241" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603728872164">
-      <screen x="72" y="27" width="1203" height="913" />
+    <state x="355" y="241" width="379" height="491" key="FileChooserDialogImpl" timestamp="1603729722503">
+      <screen x="72" y="27" width="886" height="913" />
     </state>
     <state x="456" y="241" width="424" height="491" key="FileChooserDialogImpl/72.27.1203.913@72.27.1203.913" timestamp="1603728872164" />
+    <state x="355" y="241" width="379" height="491" key="FileChooserDialogImpl/72.27.886.913@72.27.886.913" timestamp="1603729722503" />
     <state x="412" y="361" width="196" height="251" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1603726443428">
       <screen x="72" y="27" width="886" height="913" />
     </state>
